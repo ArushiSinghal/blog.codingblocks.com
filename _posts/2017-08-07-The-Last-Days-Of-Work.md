@@ -36,6 +36,6 @@ I want to end my blog by writing the key rule for contribution in OpenSource : "
 
 Once more I would like to thank BOSS program for making my summer productive and great.
 
-Cheers to all the mentors and contributors.
-Congratulations to all the winners of the program in advance.
+Cheers to all the mentors and contributors.<br/>
+Congratulations to all the winners of the program in advance.<br/>
 BOSS, see you again soon next Summer :).
